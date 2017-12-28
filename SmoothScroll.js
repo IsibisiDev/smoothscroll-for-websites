@@ -1,5 +1,5 @@
 //
-// SmoothScroll for websites v1.4.6 (Balazs Galambosi)
+// SmoothScroll for websites v1.4.6
 // https://github.com/IsibisiDev/smoothscroll-for-websites
 //
 // Licensed under the terms of the MIT license.
