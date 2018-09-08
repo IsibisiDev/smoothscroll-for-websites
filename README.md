@@ -10,3 +10,6 @@ This is the standalone version of SmoothScroll for individual websites and theme
 - Works with embedded content (PDF, flash)
 - Full touchpad support
 - Excluded pages list
+
+### Documentation
+See API documentation [here](https://github.com/IsibisiDev/smoothscroll-for-websites/wiki)
