@@ -1,3 +1,4 @@
+# SmoothScroll for WebSites
 Smooth scrolling experience for websites.
 
 This is the standalone version of SmoothScroll for individual websites and themes.
@@ -11,5 +12,5 @@ This is the standalone version of SmoothScroll for individual websites and theme
 - Full touchpad support
 - Excluded pages list
 
-### Documentation
+## Documentation
 See API documentation [here](https://github.com/IsibisiDev/smoothscroll-for-websites/wiki)
