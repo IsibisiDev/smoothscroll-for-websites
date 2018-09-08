@@ -10,9 +10,3 @@ Features
 - Works with embedded content (PDF, flash)
 - Full touchpad support
 - Excluded pages list
-
-INSTALL
-
-Package managers:
-  npm install smoothscroll-for-websites
-  bower install --save smoothscroll-for-websites
